@@ -1,5 +1,5 @@
-# BC Radio
-infinite stream of bandcamp content through your browser.
+# faded
+infinite bandcamp music streaming
 
 ## How to build it
 1. Install Go (https://golang.org/) 
