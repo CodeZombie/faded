@@ -1,0 +1,32 @@
+.cutebox {
+    padding:2rem;
+    border-style:solid;
+    border-width: 2px;
+    border-color: #888;
+    border-radius: 1rem;
+    margin-bottom:4rem;
+}
+
+.cutebutton {
+    display: block;
+    box-sizing: border-box;
+    text-decoration: none;
+    padding:1rem;
+    border-width: 2px;
+    background-color: #039be5;
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 0;
+    width:100%;
+    text-align: center;
+    border-color: #039be5;
+    border-style: solid;
+    margin-bottom: 4rem;
+}
+
+.cutebutton:hover {
+    cursor: pointer;
+    background-color: #fff;
+    color: #039be5;
+
+}
